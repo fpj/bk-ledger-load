@@ -1,1 +1,1 @@
-Test code for BOOKKEEPER-212.
+Test code for BOOKKEEPER-212. It takes two parameters: <num active ledgers> <zookeeper server>.
